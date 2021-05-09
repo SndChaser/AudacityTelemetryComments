@@ -1,3 +1,5 @@
+*See also: [OtherComments.md](OtherComments.md)*
+
 # Data Collection vs Telemetry in Audacity
 
 Audacity PR #835 is a mess on many levels. Problems that exist with this PR are
